@@ -1,6 +1,6 @@
 # IPL Data Visualization
 
-In this notebook, the insights are:
+In this notebook(IPL match-Copy1.ipynb), the insights are:
 1.	Man of the match vs Venue (stadium)
 2.	Winner vs Venue (stadium)
 3.	Umpire vs winner (overall) 
